@@ -215,7 +215,7 @@ Docker Compose 是**首选部署方式**，自动配置数据库、Redis 和应�
 
 项目基于 [zsio/claude-code-hub](https://github.com/zsio/claude-code-hub) 深度改进，OpenAI 兼容层参考 [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)。感谢原作者及社区贡献者！
 
-## ⭐ Star History
+## ⭐ Star Historys
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ding113/claude-code-hub&type=Date)](https://star-history.com/#ding113/claude-code-hub&Date)
 
